@@ -4,7 +4,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-Hi! **python-file-manager** is a file manager (for windows) based on *Python 3.7*. It was made by [Aman Binjola](www.github.com/binjolaaman10) as a personal project. With this python based file explorer you can view files, folders and perform actions on them. Actions such as moving them, deleting them (permanently or sending them to recycle bin).
+Hi! **python-file-manager** is a file manager (for windows) based on *Python 3.7*.With this python based file explorer you can view files, folders and perform actions on them. Actions such as moving them, deleting them (permanently or sending them to recycle bin).
 
 ## Modules Used:
 
