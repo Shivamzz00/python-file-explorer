@@ -1,10 +1,6 @@
 '''
 This is a python based file manager system
-for Microsoft Windows made by Aman Binjola
-as a personal project.
-28-November-2019
-
-https://github.com/binjolaaman10/python-file-manager
+for Microsoft Windows 
 '''
 
 #! python3
